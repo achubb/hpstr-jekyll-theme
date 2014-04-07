@@ -10,7 +10,7 @@ image:
 share: false
 ---
 
-Hi, I'm Andrew Chubb a creative Front End/Media developer based in Manchester, UK. Currently Senior Front End Developer at [Cube3](http://wearecube3.com) in Manchester, with a keen interest in creative development across all platforms. I am primarily a Front End Developer, but I also contribute to many other areas crucial to project development, including Media, UX, Design and Planning/Strategy.
+Hi, I'm Andrew Chubb a creative Front End/Media developer based in Manchester, UK. Currently Senior Front End Developer at [Cube3](http://wearecube3.com), with a keen interest in creative development across all platforms. I am primarily a Front End Developer, but I also contribute to many other areas crucial to project development, including Media, UX, Design and Planning/Strategy.
 
 I label myself as a "creative" developer, as I see my main strengths as working with designers, UX/UI developers, project managers and clients to create the best results. In my 6 years developing for the web, I have produced a variety of large and small scale projects for clients such as Asda, Cash Generator, Revolution Bars and the National Football Museum. My work is blending creativity with technological know-how, combined with platform and performance awareness to produce unique, engaging experiences.
 
@@ -18,7 +18,7 @@ I spend a lot of my development time in the core elements of web development. St
 
 I am also experienced in the development of HTML emails, both transactional and promotional, and am familiar with the build and testing ([Litmus](http://litmus.com/)) procedure.
 
-I have extensive experience with [WordPress](http://wordpress.org/), producing commercial grade sites. I have also developed on other platforms such as ExpressionEngine and PyroCMS as well as content management systems based on PHP frameworks such as [CodeIgniter](http://ellislab.com/codeigniter) and [KohanaPHP](http://kohanaframework.org/). I am also familiar with the structure of [Magento](http://magento.com/) and have produced themes for this platform.
+I have extensive experience with [WordPress](http://wordpress.org/), producing commercial grade sites. I have also developed on other platforms such as ExpressionEngine and PyroCMS as well as content management systems based on other PHP frameworks. I am also familiar with the structure of [Magento](http://magento.com/) and have produced themes for this platform.
 
 The majority of my work has been on open source platforms, so I regularly work with Apache and nginx servers as a result, which involves uploading sites, migrating databases (MySQL, mostly), and basic domain management. Being a bit of a Linux geek too I am comfortable on the command line.
 
