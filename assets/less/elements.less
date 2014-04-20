@@ -485,3 +485,60 @@ svg:not(:root) {
   -o-animation-name: drop;
   animation-name: drop;
 }
+
+// Progress Bars
+// --------------------------------------------------
+
+.bar-main-container {
+  margin: 10px auto;
+  width: 100%;
+  height: 78px;
+  .rounded(3px);
+  font-family: sans-serif;
+  font-weight: normal;
+  font-size: 0.8em;
+  color: #FFF;
+  padding-top: 4px;
+}
+
+.wrap { padding: 8px; }
+
+.bar-title {
+  font-family: @base-font;
+  .font-rem(14);
+  font-weight: 300;
+  margin: 0px 0px 0px 10px;
+
+}
+
+.bar-percentage {
+  font-family: @base-font;
+  .font-rem(18);
+  float: left;
+  background: rgba(0,0,0,0.13);
+  .rounded(3px);
+  padding: 2px 0px;
+  width: 18%;
+  height: 35px;
+  text-align: center;
+
+}
+
+.bar-container {
+  float: right;
+  .rounded(10px);
+  background: rgba(0,0,0,0.13);
+  width: 78%;
+  margin: 12px 0px;
+  overflow: hidden;
+}
+
+.bar {
+  float: left;
+  background: #FFF;
+  height: 100%;
+  .border-radius(10px 0px 0px 10px)
+  opacity: 1;
+}
+
+.emerald { background-color: @link-color; }

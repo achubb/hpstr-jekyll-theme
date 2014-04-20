@@ -2,14 +2,14 @@ title:            Andrew Chubb - Front End Developer
 description:      Personal Website for Andrew Chubb. Front End Developer from Manchester UK.
 disqus_shortname: 
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
-
+url:              http://andychubb.com
+#url:               http://localhost:4000
 # Owner/author information
 owner:
   name:           Andrew Chubb
   avatar:         avatar.jpg
   bio:            "I am he. Andrew Chubb. Creative Front End/Media Developer."
-  email:          andy.chubb@gmail.com
+  email:          andrew.chubb@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
@@ -34,8 +34,8 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Work
-    url: /work
+#  - title: Work
+#    url: /work
 #  - title: External Link
 #    url: http://mademistakes.com
 #    external: true
