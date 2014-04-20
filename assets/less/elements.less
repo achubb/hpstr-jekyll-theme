@@ -16,7 +16,8 @@ figure {
   padding-bottom: 10px;
   .clearfix();
   img {
-    margin-bottom: 10px;
+    display: block;
+    margin: 0px auto 10px auto;
   }
   a { 
     img {
@@ -47,7 +48,8 @@ figure {
       img {
         width: 200px;
         float: left;
-        margin-right: 10px;
+        margin: 0px 10px 10px 0px;
+        display: inline;
       }
       figcaption {
         clear: left;
@@ -66,18 +68,18 @@ svg:not(:root) {
   margin-bottom: 20px;
   padding: 8px 20px;
   .font-rem(14);
-  background-color: @primary;
+  background-color: @link-color;
   color: @white;
   border-width: 2px !important;
   border-style: solid !important;
-  border-color: @primary;
+  border-color: @link-color;
   .rounded(3px);
   &:visited {
     color: @white;
   }
   &:hover {
     background-color: @white;
-    color: @primary;
+    color: @link-color;
   }
 }
 .btn-success {

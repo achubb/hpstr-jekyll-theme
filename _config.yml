@@ -8,7 +8,7 @@ url:              http://localhost:4000
 owner:
   name:           Andrew Chubb
   avatar:         avatar.jpg
-  bio:            "Hi, I'm Andrew Chubb a creative Front End/Media Developer based in Manchester, UK"
+  bio:            "I am he. Andrew Chubb. Creative Front End/Media Developer."
   email:          andy.chubb@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
@@ -34,11 +34,11 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Theme Setup
-    url: /theme-setup
-  - title: External Link
-    url: http://mademistakes.com
-    external: true
+  - title: Work
+    url: /work
+#  - title: External Link
+#    url: http://mademistakes.com
+#    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London

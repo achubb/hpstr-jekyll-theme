@@ -276,7 +276,7 @@ a {
 }
 
 body {
-  font-family: 'Lato', Calibri, Arial, sans-serif;
+  font-family: 'Raleway', Calibri, Arial, sans-serif;
   color: #222222;
 }
 
@@ -286,7 +286,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Lato', Calibri, Arial, sans-serif;
+  font-family: 'Raleway', Calibri, Arial, sans-serif;
 }
 
 h1 {
@@ -295,20 +295,20 @@ h1 {
 }
 
 a {
-  color: #222222;
+  color: #4daf7c;
   text-decoration: none;
 }
 
 a:visited {
-  color: #555555;
+  color: #93cfb0;
 }
 
 a:hover {
-  color: #000000;
+  color: #2e684a;
 }
 
 a:focus {
-  color: #000000;
+  color: #2e684a;
   outline: thin dotted;
 }
 
@@ -876,7 +876,8 @@ figure:after {
 }
 
 figure img {
-  margin-bottom: 10px;
+  display: block;
+  margin: 0 auto 10px auto;
 }
 
 figure a img {
@@ -914,9 +915,10 @@ figure a img:hover {
 
 @media only screen and (min-width: 62.5em) {
   figure.third img {
+    display: inline;
     float: left;
     width: 200px;
-    margin-right: 10px;
+    margin: 0 10px 10px 0px;
   }
   figure.third figcaption {
     clear: left;
@@ -934,8 +936,8 @@ svg:not(:root) {
   font-size: 14px;
   font-size: 0.875rem;
   color: #ffffff;
-  background-color: #222222;
-  border-color: #222222;
+  background-color: #4daf7c;
+  border-color: #4daf7c;
   border-style: solid !important;
   border-width: 2px !important;
   -webkit-border-radius: 3px;
@@ -948,7 +950,7 @@ svg:not(:root) {
 }
 
 .btn:hover {
-  color: #222222;
+  color: #4daf7c;
   background-color: #ffffff;
 }
 
@@ -3775,12 +3777,22 @@ body {
 
 .entry-content p > a,
 .entry-content li > a {
-  border-bottom: 1px dotted #a2a2a2;
+  border-bottom: 1px dotted #fdfefd;
 }
 
 .entry-content p > a:hover,
 .entry-content li > a:hover {
   border-bottom-style: solid;
+}
+
+.id-logo {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  z-index: 10;
+  width: 60px;
+  height: 60px;
+  background-image: url(/images/logo-id.png);
 }
 
 .entry-header {
@@ -3813,6 +3825,25 @@ body {
   .header-title h1 {
     font-size: 60px;
     font-size: 3.75rem;
+  }
+}
+
+.header-title h1.main-title {
+  font-size: 32px;
+  font-size: 2rem;
+}
+
+@media only screen and (min-width: 48em) {
+  .header-title h1.main-title {
+    font-size: 34px;
+    font-size: 2.125rem;
+  }
+}
+
+@media only screen and (min-width: 62.5em) {
+  .header-title h1.main-title {
+    font-size: 36px;
+    font-size: 2.25rem;
   }
 }
 
@@ -3973,6 +4004,7 @@ body {
   display: inline-block;
   padding: 2px 6px;
   margin: 4px;
+  letter-spacing: 2px;
   color: #ffffff;
   background-color: #bbbbbb;
   -webkit-border-radius: 3px;
@@ -4152,8 +4184,8 @@ body {
   font-size: 14px;
   font-size: 0.875rem;
   color: #ffffff;
-  background-color: #222222;
-  border-color: #222222;
+  background-color: #4daf7c;
+  border-color: #4daf7c;
   border-style: solid !important;
   border-width: 2px !important;
   -webkit-border-radius: 3px;
@@ -4166,7 +4198,7 @@ body {
 }
 
 .read-more-header a:hover {
-  color: #222222;
+  color: #4daf7c;
   background-color: #ffffff;
 }
 
@@ -4180,7 +4212,7 @@ body {
 
 .read-more-content p > a,
 .read-more-content li > a {
-  border-bottom: 1px dotted #a2a2a2;
+  border-bottom: 1px dotted #fdfefd;
 }
 
 .read-more-content p > a:hover,
@@ -4358,8 +4390,8 @@ body {
   font-size: 14px;
   font-size: 0.875rem;
   color: #ffffff;
-  background-color: #222222;
-  border-color: #222222;
+  background-color: #4daf7c;
+  border-color: #4daf7c;
   border-style: solid !important;
   border-width: 2px !important;
   -webkit-border-radius: 3px;
@@ -4372,6 +4404,6 @@ body {
 }
 
 #goog-wm-sb:hover {
-  color: #222222;
+  color: #4daf7c;
   background-color: #ffffff;
 }

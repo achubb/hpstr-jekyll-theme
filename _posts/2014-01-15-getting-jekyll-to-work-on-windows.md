@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Free Software List 2013
-description: "A list of free software for Web Development"
-tags: [general, development]
+title: Getting Jekyll to work on Windows
+description: "Documenting the trails and tribulations of getting Jekyll to work on Windows"
+tags: [general, development, jekyll, windows]
 image:
-  feature: software-header.jpg
+  feature: jekyll-header.jpg
+  credit: Dr Jekyll & Mr Hyde (1931)
+  creditlink: http://www.imdb.com/title/tt0022835/
 comments: true
 share: true
 ---

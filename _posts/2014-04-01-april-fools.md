@@ -5,9 +5,9 @@ description: "A quick round up of my favourite Tech April Fools jokes from 2014.
 modified: 2013-04-01
 tags: [general]
 image:
-  feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: april-fools-header.jpg
+  credit: Cesar Romero | Batman (1966)
+  creditlink: http://en.wikipedia.org/wiki/Cesar_Romero
 comments: true
 share: true
 ---

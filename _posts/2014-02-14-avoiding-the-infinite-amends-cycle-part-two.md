@@ -4,6 +4,9 @@ title: Avoiding the Infinite Amends Cycle - Part Two
 description: "Part two in my guide to help developers overcome challenging amend cycles on web projects"
 tags: [General, DevOps]
 image:
+  credit: The Italian Job (1969)
+  creditlink: http://www.imdb.com/title/tt0064505/
+  feature: amends-header.jpg
   background: brickwall.png
 comments: true
 share: true

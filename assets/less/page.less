@@ -22,6 +22,15 @@ body {
 		}
 	}
 }
+.id-logo{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	z-index: 10;
+	right: 20px;
+	top: 20px;
+	background-image: url(/images/logo-id.png);
+}
 
 // Entry Header
 // --------------------------------------------------
@@ -43,6 +52,15 @@ body {
 		}
 		@media @large {
 			.font-rem(60);
+		}
+	}
+	h1.main-title{
+		.font-rem(32);
+		@media @medium {
+			.font-rem(34);
+		}
+		@media @large{
+			.font-rem(36);
 		}
 	}
 	h2 {
@@ -162,6 +180,7 @@ body {
 	}
 	.tag {
 		display: inline-block;
+		letter-spacing: 2px;
 		margin: 4px;
 		padding: 2px 6px;
 		background-color: lighten(@base-color,60);
