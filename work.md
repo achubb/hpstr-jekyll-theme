@@ -26,7 +26,7 @@ Since a lot of my work is more of a constant process, and I find myself moving m
 
 ## Skills
 
-### HTML5 & CSS3
+### Front End
 
 <div id="bar-1" class="bar-main-container emerald">
 	<span class="bar-title">HTML5 &amp; CSS3, Responsive, Mobile, Testing</span>
