@@ -60,6 +60,6 @@ So this concludes my first steps with Vagrant. I think that although this is sti
 
 ## Resources
 
-[Intoduction to Vagrant](https://www.youtube.com/watch?v=FSxS6iPJMFw)
-[Vagrant Docs](http://docs.vagrantup.com/v2/share/index.html)
-[Getting Started with Vagrant & VirtualBox](http://openstack.prov12n.com/getting-started-with-vagrant-virtualbox) 
+* [Intoduction to Vagrant](https://www.youtube.com/watch?v=FSxS6iPJMFw)
+* [Vagrant Docs](http://docs.vagrantup.com/v2/share/index.html)
+* [Getting Started with Vagrant & VirtualBox](http://openstack.prov12n.com/getting-started-with-vagrant-virtualbox) 
