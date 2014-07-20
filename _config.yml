@@ -1,5 +1,5 @@
 title:            Andrew Chubb - Front End Developer
-description:      Personal Website for Andrew Chubb. Front End Developer from Manchester UK.
+description:      Personal Website for Andrew Chubb. Web Developer from Manchester UK.
 disqus_shortname: 
 #Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://andychubb.com
@@ -8,7 +8,7 @@ url:              http://andychubb.com
 owner:
   name:           Andrew Chubb
   avatar:         avatar.jpg
-  bio:            "I am he. Andrew Chubb. Creative Front End/Media Developer."
+  bio:            "I am he. Andrew Chubb. Web/Front End Developer."
   email:          andrew.chubb@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        

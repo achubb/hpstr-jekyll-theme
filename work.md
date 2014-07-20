@@ -120,9 +120,19 @@ Since a lot of my work is more of a constant process, and I find myself moving m
     </div>
 </div>
 
+<div id="bar-9" class="bar-main-container emerald">
+  <span class="bar-title">Python, Django</span>
+    <div class="wrap">
+      <div class="bar-percentage" data-percentage="30"></div>
+      <div class="bar-container">
+        <div class="bar"></div>
+      </div>
+    </div>
+</div>
+
 ### Others
 
-<div id="bar-9" class="bar-main-container emerald">
+<div id="bar-10" class="bar-main-container emerald">
 	<span class="bar-title">Git, Version Control</span>
     <div class="wrap">
       <div class="bar-percentage" data-percentage="85"></div>
@@ -132,7 +142,7 @@ Since a lot of my work is more of a constant process, and I find myself moving m
     </div>
 </div>
 
-<div id="bar-10" class="bar-main-container emerald">
+<div id="bar-11" class="bar-main-container emerald">
 	<span class="bar-title">Adobe Fireworks, Photoshop</span>
     <div class="wrap">
       <div class="bar-percentage" data-percentage="90"></div>
@@ -142,7 +152,7 @@ Since a lot of my work is more of a constant process, and I find myself moving m
     </div>
 </div>
 
-<div id="bar-11" class="bar-main-container emerald">
+<div id="bar-12" class="bar-main-container emerald">
 	<span class="bar-title">Adobe Flash, CSS Animations, Gif Animations</span>
     <div class="wrap">
       <div class="bar-percentage" data-percentage="75"></div>
@@ -152,7 +162,7 @@ Since a lot of my work is more of a constant process, and I find myself moving m
     </div>
 </div>
 
-<div id="bar-12" class="bar-main-container emerald">
+<div id="bar-13" class="bar-main-container emerald">
 	<span class="bar-title">Adobe Premiere, Video Encoding, Editing</span>
     <div class="wrap">
       <div class="bar-percentage" data-percentage="50"></div>
