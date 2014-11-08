@@ -79,7 +79,7 @@ There are some short messages in here which inform the user as to what is happen
 
 Now you have the data from your form, you need to place it into a PHP array, and then send it to Mailgun. There are a couple of functions in this process file that I have picked up that make it easier to implement this. I am not a PHP guy through and through so this could probably be optimised a little bit more, however there is not much to it, here it is.
 
-    {% highlight php %}
+    {% highlight php startinline%}
     if(empty($_POST) || !isset($_POST)) {
  
         ajaxResponse('error', 'Post is empty.');
@@ -106,7 +106,7 @@ Now you have the data from your form, you need to place it into a PHP array, and
 
 Here we are checking to see if the submitted data is NOT empty. If it is, we send back an ajax response detailing that. Else we continue on with processing form. "Imploding" the formData that we have gives us a nice comma separated list that we can put in an ajaxResponse. This is the data that gets returned to form page. You can use your favourite Developer Tools to monitor the network and see what is happening with your data. A successful send will have a response of Success, and you will see our success message. If the sendMailgun function (*we'll get on to that in a minute*) fails for some reason then we need to send an error response back. In order to get these to perform correctly though we need to set up a function that returns the data in the correct JSON format, so that our ajax request can interpret what is happening.
 
-    {% highlight php %}
+    {% highlight php startinline%}
     function ajaxResponse($status, $message, $data = NULL, $mg = NULL) {
         $response = array (
             'status' => $status,
@@ -132,7 +132,7 @@ Next we need to take the data from post data, which we have just passed into thi
 
 Now, the way we are going to use Mailgun is to cURL our data over to the Mailgun API. So that it receives it in a format that it can understand. Although cURL isn't something I have used much in PHP, you can see here basically what is going on, you are posting over all of the variables you have just set up. There are some other values here that I would leave as they are if you are just utilising Mailgun for some light form use.
 
-    {% highlight php %}
+    {% highlight php startinline %}
     function sendMailgun($data) {
 
         $api_key = 'key-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
