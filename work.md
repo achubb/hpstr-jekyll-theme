@@ -13,9 +13,12 @@ share: false
 Since a lot of my work is more of a constant process, and I find myself moving more and more with advances in web technology. I have found it difficult to maintain a traditional "*portfolio*". Also there are elments of my work that are more internal, or more B2B oriented. So here are some of clients that I have been actively working with.   
 
 <figure class="third">
-	<img src="/images/asda.jpg" alt="Asda">
-	<img src="/images/cash-generator.jpg" alt="Cash Generator">
+  <img src="/images/asda.jpg" alt="Asda">
+  <img src="/images/coop.jpg" alt="The Cooperative">
+  <img src="/images/the-gym.jpg" alt="The Gym Group">
 	<img src="/images/the-rock.jpg" alt="The Rock">
+	<img src="/images/cash-generator.jpg" alt="Cash Generator">
+  <img src="/images/bayer.jpg" alt="Bayer">
 	<img src="/images/charterhouse.jpg" alt="Charterhouse">
 	<img src="/images/ans.jpg" alt="ANS Group">
 	<img src="/images/revolution.jpg" alt="Revolution">
@@ -49,7 +52,7 @@ Since a lot of my work is more of a constant process, and I find myself moving m
 </div>
 
 <div id="bar-3" class="bar-main-container emerald">
-	<span class="bar-title">SASS, LESS, Compass, Bootstrap, Grunt</span>
+	<span class="bar-title">SASS, LESS, Compass, Bootstrap, Grunt, Gulp, etc</span>
     <div class="wrap">
       <div class="bar-percentage" data-percentage="90"></div>
       <div class="bar-container">
@@ -123,7 +126,7 @@ Since a lot of my work is more of a constant process, and I find myself moving m
 <div id="bar-9" class="bar-main-container emerald">
   <span class="bar-title">Python, Django</span>
     <div class="wrap">
-      <div class="bar-percentage" data-percentage="30"></div>
+      <div class="bar-percentage" data-percentage="35"></div>
       <div class="bar-container">
         <div class="bar"></div>
       </div>
@@ -143,7 +146,7 @@ Since a lot of my work is more of a constant process, and I find myself moving m
 </div>
 
 <div id="bar-11" class="bar-main-container emerald">
-	<span class="bar-title">Adobe Fireworks, Photoshop</span>
+	<span class="bar-title">Adobe Fireworks, Photoshop, Sketch</span>
     <div class="wrap">
       <div class="bar-percentage" data-percentage="90"></div>
       <div class="bar-container">
